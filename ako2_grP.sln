@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ako3_gr6", "ako3_gr6\ako3_gr6.vcxproj", "{95A052DC-E613-422A-A3D2-2FBA8494993B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A052DC-E613-422A-A3D2-2FBA8494993B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95A052DC-E613-422A-A3D2-2FBA8494993B}.Debug|Win32.Build.0 = Debug|Win32
+		{95A052DC-E613-422A-A3D2-2FBA8494993B}.Release|Win32.ActiveCfg = Release|Win32
+		{95A052DC-E613-422A-A3D2-2FBA8494993B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
